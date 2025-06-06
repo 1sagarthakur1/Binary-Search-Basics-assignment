@@ -5,23 +5,23 @@ Strengthen core understanding of binary search and its direct applications.
 
 ## ✅ Problems Solved
 
-1. **[Find Peak Element – LeetCode #162](https://leetcode.com/problems/find-peak-element/)**
-   - File: `findPeakElement.js` (or `.py`, depending on your language)
+1. **[Find Peak Element – LeetCode #162](https://leetcode.com/problems/find-peak-element/submissions/1655282135/)**
+   - File: `FindFirstBadVersion.java` (or `.py`, depending on your language)
 
-2. **[Find First Bad Version – LeetCode #278](https://leetcode.com/problems/first-bad-version/)**
-   - File: `findFirstBadVersion.js`
+2. **[Find First Bad Version – LeetCode #278](https://leetcode.com/problems/first-bad-version/submissions/1655278907/)**
+   - File: `FindPeakElement.java`
 
-3. **[Search Insert Position – LeetCode #35](https://leetcode.com/problems/search-insert-position/)**
-   - File: `searchInsertPosition.js`
+3. **[Search Insert Position – LeetCode #35](https://leetcode.com/problems/search-insert-position/submissions/1655283965/)**
+   - File: `SearchInsertPosition.java`
 
 ---
 
 ## 📤 Submission Instructions
 
 - Each problem is solved in a **separate file** with a clear naming convention:
-  - `findPeakElement.js`
-  - `findFirstBadVersion.js`
-  - `searchInsertPosition.js`
+  - `FindFirstBadVersion.java`
+  - `FindPeakElement.java`
+  - `SearchInsertPosition.java`
 - LeetCode problem link is included at the **top of each file** as a comment.
 - All files are **pushed to this GitHub repository**.
 
@@ -29,7 +29,7 @@ Strengthen core understanding of binary search and its direct applications.
 
 ## 💻 Technologies Used
 
-- Language: JavaScript / Python (as applicable)
+- Language: Java
 - Source: [LeetCode](https://leetcode.com)
 
 ---
