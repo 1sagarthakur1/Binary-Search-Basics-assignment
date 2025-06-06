@@ -31,11 +31,3 @@ Strengthen core understanding of binary search and its direct applications.
 
 - Language: Java
 - Source: [LeetCode](https://leetcode.com)
-
----
-
-## 📎 How to Run
-
-> To run JavaScript solutions:
-```bash
-node <filename.js>
